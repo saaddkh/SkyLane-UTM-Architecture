@@ -73,4 +73,4 @@ without corrupting the rest of the airspace.
 - [OPSSAT-Hybrid-FDIR](https://github.com/saaddkh/OPSSAT-Hybrid-FDIR) — the same safety-first ML philosophy applied to ESA satellite telemetry
 
 ---
-Copyright (c) 2026 Saad Dastgir · Licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Copyright (c) 2026 Saad Dastgir 
