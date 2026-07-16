@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Architecture%20Design-blue.svg)
 ![Domain](https://img.shields.io/badge/Domain-UTM%2FUAM-orange.svg)
-![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-green.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)
 
 An end-to-end data architecture for managing **100,000 concurrent autonomous aircraft**
 over a single metropolitan airspace — designed to requirements derived from the
